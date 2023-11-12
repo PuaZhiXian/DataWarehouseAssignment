@@ -1,0 +1,16 @@
+CustomerID,Name,Email,SignupDate
+101,John Doe,john.doe@example.com,2023-01-10
+102,Jane Smith,jane.smith@example.com,2023-01-15
+103,Mike Jordan,mike.jordan@example.com,2023-01-20
+104,Sarah Johnson,sarah.johnson@example.com,2023-02-01
+105,Robert Brown,robert.brown@example.com,2023-02-05
+106,Lisa Miller,lisa.miller@example.com,2023-02-10
+107,David Taylor,david.taylor@example.com,2023-02-15
+108,Emily White,emily.white@example.com,2023-02-20
+109,Michael Carter,michael.carter@example.com,2023-02-25
+110,Amy Lee,amy.lee@example.com,2023-03-01
+111,Brian Davis,brian.davis@example.com,2023-03-05
+112,Olivia Moore,olivia.moore@example.com,2023-03-10
+113,Thomas Wilson,thomas.wilson@example.com,2023-03-15
+114,Grace Turner,grace.turner@example.com,2023-03-20
+115,Andrew Harris,andrew.harris@example.com,2023-03-25

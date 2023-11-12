@@ -1,0 +1,11 @@
+ProductID,Name,Category,Price
+201,Sofa,Furniture,500
+202,Dining Table,Furniture,300
+203,Bed,Furniture,700
+204,T-Shirt,Apparel,20
+205,Jeans,Apparel,50
+206,Sneakers,Apparel,80
+207,Laptop,Electronics,1000
+208,Smartphone,Electronics,800
+209,Headphones,Electronics,150
+210,Smartwatch,Electronics,200
